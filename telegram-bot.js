@@ -1,7 +1,7 @@
 const axios = require('axios');
 
 const BOT_TOKEN = '7320403925:AAGoTPMxqV9NQDqfg4NT3Sa6CFU8hd8FlB4';
-const CHAT_ID = '1002578513696'; // e.g., -1001234567890
+const CHAT_ID = '-1002578513696'; // e.g., -1001234567890
 
 const messages = [
   '🚀 This NFT beanzofficial is going high! #NFT',
