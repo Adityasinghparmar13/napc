@@ -1,16 +1,15 @@
 {
   "name": "telegram-bot",
   "version": "1.0.0",
-  "description": "A simple Telegram bot that sends and fetches NFT messages.",
+  "description": "Telegram NFT auto-message bot",
   "main": "telegram-bot.js",
+  "type": "module",
   "scripts": {
     "start": "node telegram-bot.js"
   },
-  "author": "YourName",
-  "license": "MIT",
   "dependencies": {
     "axios": "^1.6.0",
     "dotenv": "^16.0.3",
-    "mongoose": "^7.0.4"
+    "express": "^4.18.2"
   }
 }
